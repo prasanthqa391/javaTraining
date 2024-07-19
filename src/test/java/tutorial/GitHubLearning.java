@@ -19,5 +19,8 @@ public class GitHubLearning {
 		System.out.println("wednesday");
 
 	}
-
+	
+	private void thursday() {
+		System.out.println("thursday");
+	}
 }
