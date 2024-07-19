@@ -14,5 +14,10 @@ public class GitHubLearning {
 		System.out.println("world");
 
 	}
+	
+	private void wednesday() {
+		System.out.println("wednesday");
+
+	}
 
 }
